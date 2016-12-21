@@ -1,0 +1,4 @@
+
+target 'HTTPs' do
+pod 'AFNetworking'
+end
